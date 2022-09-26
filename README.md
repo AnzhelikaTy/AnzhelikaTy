@@ -1,6 +1,7 @@
-<a href="https://www.linkedin.com/in/anzhelika-susemcik-24a73b145"><img src = "https://user-images.githubusercontent.com/67637075/192366149-74aff8f9-f843-4296-86df-286432db5f9d.png" width="30"></a>
+<a href="https://angelika-susemcik.netlify.app/"><img src = "https://user-images.githubusercontent.com/67637075/192368135-7765b52e-9369-4a9d-9783-14ccb87d79a0.png" width="120"></a>
 
-<h2 align="center">Hi there 👋</h2>
+
+<h1 align="center">Hi there 👋</h1>
 <table>
   <tr>
     <td><h3 align="center">I'm Angelika Susemcik</h3>
