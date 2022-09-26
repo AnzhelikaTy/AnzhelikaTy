@@ -3,7 +3,7 @@
   <tr>
     <td><h4 align="center">I'm Angelika Susemcik</h4>
       <p align="center">✈️ ex-stewardess and now a passionate self-taught front-end web developer.</p>
-      <p align="center">I decided to go further!</p>
+      <p align="center">I decided to go further as I love constantly learning new things! </p>
      
 - 💪 My goal is to become **full-stack web developer** 
 
