@@ -1,7 +1,9 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 <table>
   <tr>
-    <td>I'm Angelika Susemcik, ✈️ ex-stewardess and now a passionate self-taught front-end web developer. I decided to go further!
+    <td><h4 align="center">I'm Angelika Susemcik</h4>
+      <p align="center">✈️ ex-stewardess and now a passionate self-taught front-end web developer.</p>
+      <p align="center">I decided to go further!</p>
      
 - 💪 My goal is to become **full-stack web developer** 
 
