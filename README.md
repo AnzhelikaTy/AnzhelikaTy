@@ -1,4 +1,4 @@
-<a href="https://angelika-susemcik.netlify.app/"><img src = "https://user-images.githubusercontent.com/67637075/192368135-7765b52e-9369-4a9d-9783-14ccb87d79a0.png" width="120"></a>
+<a href="https://angelika-susemcik.netlify.app/" target="_blank"><img src = "https://user-images.githubusercontent.com/67637075/192368135-7765b52e-9369-4a9d-9783-14ccb87d79a0.png" width="120"></a>
 
 
 <h1 align="center">Hi there 👋</h1>
