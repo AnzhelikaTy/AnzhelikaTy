@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋</h2>
 <table>
   <tr>
-    <td><h4 align="center">I'm Angelika Susemcik</h4>
+    <td><h3 align="center">I'm Angelika Susemcik</h3>
       <p align="center">✈️ ex-stewardess and now a passionate self-taught front-end web developer.</p>
       <p align="center">I decided to go further as I love constantly learning new things! </p>
      
