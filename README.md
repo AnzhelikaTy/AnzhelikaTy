@@ -1,9 +1,9 @@
+<h1 align="center">Hi there 👋</h1>
 
 <a href="https://angelika-susemcik.netlify.app/"><img src = "https://user-images.githubusercontent.com/67637075/192368135-7765b52e-9369-4a9d-9783-14ccb87d79a0.png" width="120"></a> 
 
 ![](https://komarev.com/ghpvc/?username=AnzhelikaTy&color=896FC9&style=for-the-badge)
 
-<h1 align="center">Hi there 👋</h1>
 <table>
   <tr>
     <td><h3 align="center">I'm Angelika Susemcik</h3>
