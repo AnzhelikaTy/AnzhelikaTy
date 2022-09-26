@@ -1,4 +1,4 @@
-Hi there 👋
+## Hi there 👋
 
 I'm Angelika Susemcik, ex-stewardess 🛫 and now a passionate self-taught front-end developer. 
 I decided to go further, so currently my goal is to become full-stack 💪
