@@ -18,5 +18,8 @@
     <td><img src="https://user-images.githubusercontent.com/67637075/192196267-62397a27-1938-4359-a92d-55deb69eea24.gif"></td>
   </tr>
  </table>
-
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnzhelikaTy&hide=contribs,prs&&show_icons=true&theme=buefy)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnzhelikaTy)](https://github.com/anuraghazra/github-readme-stats)
+
