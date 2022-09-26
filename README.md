@@ -1,8 +1,7 @@
 ## Hi there 👋
 <table>
   <tr>
-    <td>I'm Angelika Susemcik
- I'm ex-stewardess and now a passionate self-taught front-end web developer. I decided to go further!
+    <td>I'm Angelika Susemcik, ✈️ ex-stewardess and now a passionate self-taught front-end web developer. I decided to go further!
      
 - 💪 My goal is to become **full-stack web developer** 
 
